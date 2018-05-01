@@ -1,0 +1,11 @@
+c:\users\s178020\documents\visual studio 2015\Projects\CollectTheCoins\CollectTheCoins\bin\Debug\CollectTheCoins.exe.config
+c:\users\s178020\documents\visual studio 2015\Projects\CollectTheCoins\CollectTheCoins\bin\Debug\CollectTheCoins.exe
+c:\users\s178020\documents\visual studio 2015\Projects\CollectTheCoins\CollectTheCoins\bin\Debug\CollectTheCoins.pdb
+c:\users\s178020\documents\visual studio 2015\Projects\CollectTheCoins\CollectTheCoins\obj\Debug\CollectTheCoins.csprojResolveAssemblyReference.cache
+c:\users\s178020\documents\visual studio 2015\Projects\CollectTheCoins\CollectTheCoins\obj\Debug\CollectTheCoins.Form1.resources
+c:\users\s178020\documents\visual studio 2015\Projects\CollectTheCoins\CollectTheCoins\obj\Debug\CollectTheCoins.Properties.Resources.resources
+c:\users\s178020\documents\visual studio 2015\Projects\CollectTheCoins\CollectTheCoins\obj\Debug\CollectTheCoins.csproj.GenerateResource.Cache
+c:\users\s178020\documents\visual studio 2015\Projects\CollectTheCoins\CollectTheCoins\obj\Debug\CollectTheCoins.exe
+c:\users\s178020\documents\visual studio 2015\Projects\CollectTheCoins\CollectTheCoins\obj\Debug\CollectTheCoins.pdb
+c:\users\s178020\documents\visual studio 2015\Projects\CollectTheCoins\CollectTheCoins\bin\Debug\Newtonsoft.Json.dll
+c:\users\s178020\documents\visual studio 2015\Projects\CollectTheCoins\CollectTheCoins\bin\Debug\Newtonsoft.Json.xml
